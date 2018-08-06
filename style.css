@@ -1,0 +1,46 @@
+/* Element Styling */
+body {
+  font-family: sans-serif;
+  margin: 0;
+}
+header {
+  background-color: rgb(42, 62, 97);
+  color: white;
+  text-align: center;
+  padding: 10px 0 150px 0;
+  width:900px;
+
+
+}
+
+main {
+  background-color: rgb(79, 144, 208);
+  width:700px;
+  float:left;
+  text-align: center;
+
+}
+
+aside {
+  background-color: rgb(251, 214, 74);
+  float: left;
+  width:180px;
+  padding: 10px;
+
+}
+footer {
+  background-color: rgb(244, 155, 61);
+  clear:both;
+  text-align: center;
+  height:150px;
+  padding-top: 15px;
+
+}
+
+
+/* Class styling */
+
+.container {
+  width:900px
+}
+@media
